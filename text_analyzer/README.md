@@ -19,4 +19,4 @@ Paano i sesetup?
 - git clone "https://github.com/jethroKiel/textAnalayzer.git" 
 2. run the program
 - python main.py example.txt
-3. pede i moify yung smaple text sa sample.txt
+3. pede i moify yung smaple text sa example.txt
